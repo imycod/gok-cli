@@ -1,0 +1,20 @@
+{
+  "name": "gok-cli",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gok-cli": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^10.0.0",
+    "inquirer": "^9.1.5",
+    "shelljs": "^0.8.5"
+  },
+  "dependencies": {}
+}
